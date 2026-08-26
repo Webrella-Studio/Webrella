@@ -20,3 +20,6 @@
 .process-step:nth-child(4) .process-card-detailed{border-top:4px solid var(--blue)}
 @media(max-width:950px){.process-timeline{grid-template-columns:repeat(2,1fr);gap:24px}.process-timeline:before{display:none}.process-step{padding-top:50px}.process-node{top:0}.process-card-detailed{min-height:330px}.process-number{margin-bottom:28px}}
 @media(max-width:620px){.process-heading{margin-bottom:42px}.process-timeline{grid-template-columns:1fr}.process-step{padding-top:44px}.process-card-detailed{min-height:0;padding:26px 24px}.process-number{margin-bottom:24px}.process-node{left:24px;width:34px;height:34px;border-width:6px}}
+
+/* Hide service-card number badges */
+.service-icon{display:none!important}
