@@ -1,0 +1,1 @@
+Trigger GitHub Pages redeployment after updating Webrella contact email on 2026-08-26.
